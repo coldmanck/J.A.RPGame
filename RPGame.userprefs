@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\FinalProject\Scripts\FireProjectileScript.cs">
+    <Files>
+      <File FileName="Assets\FinalProject\Scripts\PlayerHealth.cs" Line="43" Column="24" />
+      <File FileName="Assets\FinalProject\Scripts\BossAttackPlayer.cs" Line="25" Column="30" />
+      <File FileName="Assets\PyroParticles\Demo\DemoScript.cs" Line="143" Column="6" />
+      <File FileName="Assets\FinalProject\Scripts\FireProjectileScript.cs" Line="95" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
